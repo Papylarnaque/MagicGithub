@@ -14,7 +14,8 @@ public class FakeApiService implements ApiService {
      */
     @Override
     public List<User> getUsers() {
-        return users;
+        // TODO: A modifier
+        return null;
     }
 
     /**

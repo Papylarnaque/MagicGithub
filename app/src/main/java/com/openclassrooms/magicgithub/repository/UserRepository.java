@@ -14,7 +14,8 @@ public class UserRepository {
     }
 
     public List<User> getUsers() {
-        return apiService.getUsers();
+        // TODO: A modifier
+        return null;
     }
 
     public void generateRandomUser() {
